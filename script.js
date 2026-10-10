@@ -6,18 +6,18 @@
 const photos = [
   {
     src: "images/IMG-0002.jpg",
-    title: "Mountain Escape",
-    alt: "Mountain landscape"
+    title: "The Church of the Good Shepherd",
+    alt: "The Church"
   },
   {
     src: "images/IMG-0003.jpg",
-    title: "By the Sea",
-    alt: "Coastal scenery"
+    title: "Inside the Churfch",
+    alt: "The cross"
   },
   {
     src: "images/IMG-0026.jpg",
-    title: "Into the Forest",
-    alt: "Trees and forest scenery"
+    title: "Together on the way",
+    alt: "Together"
   }
 ];
 
