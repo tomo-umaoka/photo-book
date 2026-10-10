@@ -5,17 +5,22 @@
 // Put your image files inside the images folder.
 const photos = [
   {
-    src: "images/photo-01.jpg",
+    src: "images/IMG-0001.jpg",
     title: "Mountain Escape",
     alt: "Mountain landscape"
   },
   {
-    src: "images/photo-02.jpg",
+    src: "images/IMG-0002.jpg",
     title: "By the Sea",
     alt: "Coastal scenery"
   },
   {
-    src: "images/photo-03.jpg",
+    src: "images/IMG-0003.jpg",
+    title: "Into the Forest",
+    alt: "Trees and forest scenery"
+  },
+  {
+    src: "images/IMG-0004.jpg",
     title: "Into the Forest",
     alt: "Trees and forest scenery"
   }
